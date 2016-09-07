@@ -1,0 +1,27 @@
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.exe.config
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.exe
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.pdb
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.csprojResolveAssemblyReference.cache
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.Properties.Resources.resources
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.csproj.GenerateResource.Cache
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.exe.licenses
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.exe
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.pdb
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDangNhap.resources
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDanhSachVe.resources
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmManHinhChinh.resources
+D:\Project 2013\DoAnCuoiKy-PTUDCSDL\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDatVe.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.exe.config
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.exe
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.pdb
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.csprojResolveAssemblyReference.cache
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDangNhap.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDanhSachVe.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmDatVe.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.frmManHinhChinh.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy_PTUDCSDL.Properties.Resources.resources
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.csproj.GenerateResource.Cache
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\obj\Debug\DoAnCuoiKy-PTUDCSDL.exe.licenses
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.exe
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\bin\Debug\DoAnCuoiKy-PTUDCSDL.pdb
+E:\dack-ptudcsdl\DoAnCuoiKy-PTUDCSDL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
